@@ -28,5 +28,10 @@ Problems and solution
 First, the vehicle need to recognize the ambient around it, with the help of sensor1 , sensor 2 , sensor3 , he is able to save the distance in the variables pos_x_inicial (for the right and left distances) and pos_y_inicial (for front distance). He´s going to save them into grado_inicial variable, which will be used at the end.
 
 ## Movement
-after that he will start to go forward, mainmotor (rear motor), at a speed of 190cm/s, this not will stop until he reach the end.
+After that he will start to go forward, mainmotor (rear motor), at a speed of 190cm/s, this not will stop until he reach the end.
 
+## Servos
+smotordir (servo motor for sensor), this one rotate in 180°. 90° and 30° angle; mantain the sensor1 in constlanty movement for search distances.
+smotorsen (servo motor for wheels), this is manated to move the wheels when (Funtion 
+
+## 
