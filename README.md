@@ -34,5 +34,8 @@ After that he will start to go forward, mainmotor (rear motor), at a speed of 19
 smotordir (servo motor for sensor), this one rotate in 180°. 90° and 30° angle; mantain the sensor1 in constlanty movement for search distances.
 smotorsen (servo motor for wheels), this is manated to move the wheels when (Funtion 
 
-## Evitar choque
+## alignment
 Sensor 2 , sensor 3 are going to work searching 
+
+## Crossing
+When the 
