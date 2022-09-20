@@ -35,7 +35,9 @@ smotordir (servo motor for sensor), this one rotate in 180°. 90° and 30° angl
 smotorsen (servo motor for wheels), this is manated to move the wheels when (Funtion 
 
 ## alignment
-Sensor 2 , sensor 3 are going to work searching 
+Sensor 2 , sensor 3 are going to work searching for distance, this distance are going to be saved in dist2 (sensor 2 distance) and dist3 (sensor 3 distance), 
 
 ## Crossing
-When the 
+Sensors are going to continue with alignment, but when the sensors detects a distance too large than the other, the bot is going to able a complex proccess, 
+
+## Final position
